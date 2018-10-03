@@ -1,2 +1,2 @@
-#GRID Trainig
+#GRID Training
 Complete
